@@ -1,0 +1,16 @@
+{
+    "name": "olbc4/1-composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Olbc4\\1Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "olivierblanc42",
+            "email": "olivierhumanbooster@gmail.com"
+        }
+    ],
+    "require": {}
+}
